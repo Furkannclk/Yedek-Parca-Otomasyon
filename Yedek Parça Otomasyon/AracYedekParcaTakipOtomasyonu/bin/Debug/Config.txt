@@ -1,0 +1,1 @@
+Data Source=DESKTOP-KVIRVD3\SQLEXPRESS;Initial Catalog=Db_YedekParcaOtomasyonSistemi;Integrated Security=True

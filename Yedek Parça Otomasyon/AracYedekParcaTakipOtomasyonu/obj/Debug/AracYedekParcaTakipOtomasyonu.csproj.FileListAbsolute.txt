@@ -1,0 +1,51 @@
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\AracYedekParcaTakipOtomasyonu\bin\Debug\AracYedekParcaTakipOtomasyonu.exe.config
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\AracYedekParcaTakipOtomasyonu\bin\Debug\AracYedekParcaTakipOtomasyonu.exe
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\AracYedekParcaTakipOtomasyonu\bin\Debug\AracYedekParcaTakipOtomasyonu.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\AracYedekParcaTakipOtomasyonu\obj\Debug\AracYedekParcaTakipOtomasyonu.GirisPenceresi.resources
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\AracYedekParcaTakipOtomasyonu\obj\Debug\AracYedekParcaTakipOtomasyonu.ithalatAramaArsivlemeListeleme.resources
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\AracYedekParcaTakipOtomasyonu\obj\Debug\AracYedekParcaTakipOtomasyonu.IthalatKayitPencere.resources
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\AracYedekParcaTakipOtomasyonu\obj\Debug\AracYedekParcaTakipOtomasyonu.MarkaModelAramaSilmeListeleme.resources
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\AracYedekParcaTakipOtomasyonu\obj\Debug\AracYedekParcaTakipOtomasyonu.MarkaModelPenceresi.resources
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\AracYedekParcaTakipOtomasyonu\obj\Debug\AracYedekParcaTakipOtomasyonu.Properties.Resources.resources
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\AracYedekParcaTakipOtomasyonu\obj\Debug\AracYedekParcaTakipOtomasyonu.UyeOlPencere.resources
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\AracYedekParcaTakipOtomasyonu\obj\Debug\AracYedekParcaTakipOtomasyonu.YoneticiPenceresi.resources
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\AracYedekParcaTakipOtomasyonu\obj\Debug\AracYedekParcaTakipOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\AracYedekParcaTakipOtomasyonu\obj\Debug\AracYedekParcaTakipOtomasyonu.exe
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\AracYedekParcaTakipOtomasyonu\obj\Debug\AracYedekParcaTakipOtomasyonu.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\AracYedekParcaTakipOtomasyonu\obj\Debug\AracYedekParcaTakipOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\AracYedekParcaTakipOtomasyonu\obj\Debug\AracYedekParcaTakipOtomasyonu.MusteriAramaBanlaListele.resources
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\AracYedekParcaTakipOtomasyonu\obj\Debug\AracYedekParcaTakipOtomasyonu.ListeIslemPenceresi.resources
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\AracYedekParcaTakipOtomasyonu\obj\Debug\AracYedekParcaTakipOtomasyonu.YedekParcaEkleDuzenlePenceresi.resources
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\AracYedekParcaTakipOtomasyonu\obj\Debug\AracYedekParcaTakipOtomasyonu.YedekParcaAramaArsivleListe.resources
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\AracYedekParcaTakipOtomasyonu\obj\Debug\AracYedekParcaTakipOtomasyonu.YedekParcaAlisListesi.resources
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\AracYedekParcaTakipOtomasyonu\obj\Debug\AracYedekParcaTakipOtomasyonu.MusteriPenceresi.resources
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\AracYedekParcaTakipOtomasyonu\obj\Debug\AracYedekParcaTakipOtomasyonu.MusteriYedekParcaAl.resources
+C:\Users\ibrah\OneDrive\Masaüstü\2.100 DERS\AracYedekParcaTakipOtomasyonu\obj\Debug\AracYedekParcaTakipOtomasyonu.MusteriYedekIptalAldiklarimListe.resources
+C:\Yedek Parça Otomasyon Sistemi 05.06.2022\AracYedekParcaTakipOtomasyonu\bin\Debug\AracYedekParcaTakipOtomasyonu.exe.config
+C:\Yedek Parça Otomasyon Sistemi 05.06.2022\AracYedekParcaTakipOtomasyonu\obj\Debug\AracYedekParcaTakipOtomasyonu.exe
+C:\Yedek Parça Otomasyon Sistemi 05.06.2022\AracYedekParcaTakipOtomasyonu\obj\Debug\AracYedekParcaTakipOtomasyonu.pdb
+E:\sistem analizi\Yedek Parça\AracYedekParcaTakipOtomasyonu\bin\Debug\AracYedekParcaTakipOtomasyonu.exe.config
+E:\sistem analizi\Yedek Parça\AracYedekParcaTakipOtomasyonu\bin\Debug\AracYedekParcaTakipOtomasyonu.exe
+E:\sistem analizi\Yedek Parça\AracYedekParcaTakipOtomasyonu\bin\Debug\AracYedekParcaTakipOtomasyonu.pdb
+E:\sistem analizi\Yedek Parça\AracYedekParcaTakipOtomasyonu\obj\Debug\AracYedekParcaTakipOtomasyonu.csproj.AssemblyReference.cache
+E:\sistem analizi\Yedek Parça\AracYedekParcaTakipOtomasyonu\obj\Debug\AracYedekParcaTakipOtomasyonu.csproj.SuggestedBindingRedirects.cache
+E:\sistem analizi\Yedek Parça\AracYedekParcaTakipOtomasyonu\obj\Debug\AracYedekParcaTakipOtomasyonu.GirisPenceresi.resources
+E:\sistem analizi\Yedek Parça\AracYedekParcaTakipOtomasyonu\obj\Debug\AracYedekParcaTakipOtomasyonu.ithalatAramaArsivlemeListeleme.resources
+E:\sistem analizi\Yedek Parça\AracYedekParcaTakipOtomasyonu\obj\Debug\AracYedekParcaTakipOtomasyonu.IthalatKayitPencere.resources
+E:\sistem analizi\Yedek Parça\AracYedekParcaTakipOtomasyonu\obj\Debug\AracYedekParcaTakipOtomasyonu.ListeIslemPenceresi.resources
+E:\sistem analizi\Yedek Parça\AracYedekParcaTakipOtomasyonu\obj\Debug\AracYedekParcaTakipOtomasyonu.MarkaModelAramaSilmeListeleme.resources
+E:\sistem analizi\Yedek Parça\AracYedekParcaTakipOtomasyonu\obj\Debug\AracYedekParcaTakipOtomasyonu.MarkaModelPenceresi.resources
+E:\sistem analizi\Yedek Parça\AracYedekParcaTakipOtomasyonu\obj\Debug\AracYedekParcaTakipOtomasyonu.MusteriAramaBanlaListele.resources
+E:\sistem analizi\Yedek Parça\AracYedekParcaTakipOtomasyonu\obj\Debug\AracYedekParcaTakipOtomasyonu.MusteriPenceresi.resources
+E:\sistem analizi\Yedek Parça\AracYedekParcaTakipOtomasyonu\obj\Debug\AracYedekParcaTakipOtomasyonu.MusteriYedekIptalAldiklarimListe.resources
+E:\sistem analizi\Yedek Parça\AracYedekParcaTakipOtomasyonu\obj\Debug\AracYedekParcaTakipOtomasyonu.MusteriYedekParcaAl.resources
+E:\sistem analizi\Yedek Parça\AracYedekParcaTakipOtomasyonu\obj\Debug\AracYedekParcaTakipOtomasyonu.Properties.Resources.resources
+E:\sistem analizi\Yedek Parça\AracYedekParcaTakipOtomasyonu\obj\Debug\AracYedekParcaTakipOtomasyonu.UyeOlPencere.resources
+E:\sistem analizi\Yedek Parça\AracYedekParcaTakipOtomasyonu\obj\Debug\AracYedekParcaTakipOtomasyonu.YedekParcaAlisListesi.resources
+E:\sistem analizi\Yedek Parça\AracYedekParcaTakipOtomasyonu\obj\Debug\AracYedekParcaTakipOtomasyonu.YedekParcaAramaArsivleListe.resources
+E:\sistem analizi\Yedek Parça\AracYedekParcaTakipOtomasyonu\obj\Debug\AracYedekParcaTakipOtomasyonu.YedekParcaEkleDuzenlePenceresi.resources
+E:\sistem analizi\Yedek Parça\AracYedekParcaTakipOtomasyonu\obj\Debug\AracYedekParcaTakipOtomasyonu.YoneticiPenceresi.resources
+E:\sistem analizi\Yedek Parça\AracYedekParcaTakipOtomasyonu\obj\Debug\AracYedekParcaTakipOtomasyonu.csproj.GenerateResource.cache
+E:\sistem analizi\Yedek Parça\AracYedekParcaTakipOtomasyonu\obj\Debug\AracYedekParcaTakipOtomasyonu.csproj.CoreCompileInputs.cache
+E:\sistem analizi\Yedek Parça\AracYedekParcaTakipOtomasyonu\obj\Debug\AracYedekParcaTakipOtomasyonu.exe
+E:\sistem analizi\Yedek Parça\AracYedekParcaTakipOtomasyonu\obj\Debug\AracYedekParcaTakipOtomasyonu.pdb

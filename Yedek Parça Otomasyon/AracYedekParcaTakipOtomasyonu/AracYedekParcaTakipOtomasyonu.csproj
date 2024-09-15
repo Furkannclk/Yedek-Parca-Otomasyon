@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5CC71C6F-2479-471C-B29A-941B0A5F3CAF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>AracYedekParcaTakipOtomasyonu</RootNamespace>
+    <AssemblyName>AracYedekParcaTakipOtomasyonu</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ConnectionClassString.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ithalatAramaArsivlemeListeleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ithalatAramaArsivlemeListeleme.Designer.cs">
+      <DependentUpon>ithalatAramaArsivlemeListeleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IthalatKayitPencere.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IthalatKayitPencere.Designer.cs">
+      <DependentUpon>IthalatKayitPencere.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListeIslemPenceresi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListeIslemPenceresi.Designer.cs">
+      <DependentUpon>ListeIslemPenceresi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MarkaModelAramaSilmeListeleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MarkaModelAramaSilmeListeleme.Designer.cs">
+      <DependentUpon>MarkaModelAramaSilmeListeleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MarkaModelPenceresi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MarkaModelPenceresi.Designer.cs">
+      <DependentUpon>MarkaModelPenceresi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessageClass.cs" />
+    <Compile Include="MusteriAramaBanlaListele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MusteriAramaBanlaListele.Designer.cs">
+      <DependentUpon>MusteriAramaBanlaListele.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MusteriPenceresi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MusteriPenceresi.Designer.cs">
+      <DependentUpon>MusteriPenceresi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MusteriYedekIptalAldiklarimListe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MusteriYedekIptalAldiklarimListe.Designer.cs">
+      <DependentUpon>MusteriYedekIptalAldiklarimListe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MusteriYedekParcaAl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MusteriYedekParcaAl.Designer.cs">
+      <DependentUpon>MusteriYedekParcaAl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SqlProcess.cs" />
+    <Compile Include="UyeOlPencere.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UyeOlPencere.Designer.cs">
+      <DependentUpon>UyeOlPencere.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YedekParcaAlisListesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YedekParcaAlisListesi.Designer.cs">
+      <DependentUpon>YedekParcaAlisListesi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YedekParcaAramaArsivleListe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YedekParcaAramaArsivleListe.Designer.cs">
+      <DependentUpon>YedekParcaAramaArsivleListe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YedekParcaEkleDuzenlePenceresi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YedekParcaEkleDuzenlePenceresi.Designer.cs">
+      <DependentUpon>YedekParcaEkleDuzenlePenceresi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YoneticiPenceresi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YoneticiPenceresi.Designer.cs">
+      <DependentUpon>YoneticiPenceresi.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ithalatAramaArsivlemeListeleme.resx">
+      <DependentUpon>ithalatAramaArsivlemeListeleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IthalatKayitPencere.resx">
+      <DependentUpon>IthalatKayitPencere.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListeIslemPenceresi.resx">
+      <DependentUpon>ListeIslemPenceresi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MarkaModelAramaSilmeListeleme.resx">
+      <DependentUpon>MarkaModelAramaSilmeListeleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MarkaModelPenceresi.resx">
+      <DependentUpon>MarkaModelPenceresi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MusteriAramaBanlaListele.resx">
+      <DependentUpon>MusteriAramaBanlaListele.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MusteriPenceresi.resx">
+      <DependentUpon>MusteriPenceresi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MusteriYedekIptalAldiklarimListe.resx">
+      <DependentUpon>MusteriYedekIptalAldiklarimListe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MusteriYedekParcaAl.resx">
+      <DependentUpon>MusteriYedekParcaAl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="UyeOlPencere.resx">
+      <DependentUpon>UyeOlPencere.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YedekParcaAlisListesi.resx">
+      <DependentUpon>YedekParcaAlisListesi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YedekParcaAramaArsivleListe.resx">
+      <DependentUpon>YedekParcaAramaArsivleListe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YedekParcaEkleDuzenlePenceresi.resx">
+      <DependentUpon>YedekParcaEkleDuzenlePenceresi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YoneticiPenceresi.resx">
+      <DependentUpon>YoneticiPenceresi.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
